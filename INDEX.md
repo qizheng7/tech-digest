@@ -7,7 +7,7 @@
 | 2026-04-28 | [Run Highly Efficient Multimodal Agentic AI with NVIDIA Nemotron 3 Nano Omni Using vLLM](articles/2026/04/2026-04-28-vllm-nemotron-nano-omni-multimodal-agentic-ai.md) | vLLM Blog | inference, multimodal, NVIDIA, MoE | ai-infra |
 | 2026-04-28 | [Claude for Creative Work](articles/2026/04/2026-04-28-anthropic-claude-for-creative-work.md) | Anthropic | Claude, creative, connectors, Adobe | genai-llm |
 | 2026-04-28 | [How Stripe Detects Fraudulent Transactions Within 100ms](newsletters/2026/04/2026-04-28-bytebytego-stripe-fraud-detection-100ms.md) | ByteByteGo | ML, fraud-detection, Stripe, neural-networks | newsletter |
-| 2026-04-28 | [[AINews] ImageGen is on the Path to AGI](newsletters/2026/04/2026-04-28-ainews-imagegen-path-to-agi.md) | AINews | GPT-Image-2, multimodal, AGI, roundup | newsletter |
+| 2026-04-28 | [[AINews] ImageGen is on the Path to AGI](newsletters/2026/04/2026-04-28-ainews-imagegen-path-to-agi.md) | AINews | roundup, twitter-recap, community-signals, GPT-Image-2, multimodal | newsletter |
 | 2026-04-27 | [OpenAI Ends Microsoft Legal Peril Over Its $50B Amazon Deal](articles/2026/04/2026-04-27-openai-microsoft-partnership-renegotiation.md) | TechCrunch | OpenAI, Microsoft, Amazon, cloud, deal | ai-startup |
 | 2026-04-27 | [Ex-DeepMind David Silver Raises $1.1B for Ineffable Intelligence](articles/2026/04/2026-04-27-ineffable-intelligence-1-1b-seed-david-silver.md) | TechCrunch | funding, reinforcement-learning, seed-round, DeepMind | ai-startup |
 | 2026-04-27 | [How Amazon Uses LLMs to Recommend Products](newsletters/2026/04/2026-04-27-bytebytego-amazon-cosmo-llm-recommendations.md) | ByteByteGo | LLM, recommendation, knowledge-graph, Amazon | newsletter |
