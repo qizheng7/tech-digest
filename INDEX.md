@@ -4,6 +4,10 @@
 
 | Date | Title | Source | Tags | Type |
 |------|-------|--------|------|------|
+| 2026-04-30 | [[AINews] Agents for Everything Else: Codex for Knowledge Work, Claude for Creative Work](newsletters/2026/04/2026-04-30-ainews-agents-for-everything-else.md) | AINews | roundup, twitter-recap, community-signals, Codex, Claude, Qwen3.6, open-weights, security, agents | newsletter |
+| 2026-04-29 | [Big Tech Q1 2026 Earnings: $650B AI Capex Commitment Validated by Cloud Results](articles/2026/04/2026-04-29-big-tech-q1-2026-earnings-ai-spending.md) | The Motley Fool | earnings, Alphabet, Microsoft, Meta, Amazon, Google-Cloud, AWS, capex, AI-spending, cloud | ai-startup |
+| 2026-04-29 | [Remote agents in Vibe. Powered by Mistral Medium 3.5.](articles/2026/04/2026-04-29-mistral-medium-3-5-open-weights-remote-agents.md) | Mistral AI | Mistral, open-weights, agents, remote-execution, coding, benchmark, SWE-bench, MoE, vibe | genai-llm |
+| 2026-04-28 | [Together AI Brings NVIDIA Nemotron 3 Nano Omni to Developers on Day 0](articles/2026/04/2026-04-28-together-ai-nemotron-3-nano-omni-day-0.md) | Together AI Blog | NVIDIA, Nemotron, multimodal, MoE, inference, agentic, Mamba, Blackwell, day-0 | ai-infra |
 | 2026-04-30 | [Scaling Pain of Coding Agent Serving](articles/2026/04/2026-04-30-zai-scaling-pain-coding-agent-serving.md) | Z.AI Blog | inference, KV-cache, coding-agents, race-condition, PD-disaggregation, HiCache, SGLang, GLM-5, speculative-decoding, throughput | ai-infra |
 | 2026-04-29 | [[AINews] The Inference Inflection](newsletters/2026/04/2026-04-29-ainews-the-inference-inflection.md) | AINews | roundup, twitter-recap, community-signals, inference, Codex, Cursor-SDK, Mistral, vLLM | newsletter |
 | 2026-04-29 | [[AINews] not much happened today](newsletters/2026/04/2026-04-29-ainews-not-much-happened-today.md) | AINews | roundup, twitter-recap, community-signals, vLLM, Poolside, Nemotron, GPT-5.5 | newsletter |
