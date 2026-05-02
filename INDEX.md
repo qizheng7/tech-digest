@@ -4,6 +4,10 @@
 
 | Date | Title | Source | Tags | Type |
 |------|-------|--------|------|------|
+| 2026-05-01 | [Qwen-Scope: Open-Source Sparse Autoencoder Suite for LLM Interpretability](articles/2026/05/2026-05-01-qwen-scope-sparse-autoencoders-interpretability.md) | Qwen / Alibaba | interpretability, SAE, sparse-autoencoders, feature-steering, LLM, open-source, Qwen3 | genai-llm |
+| 2026-04-30 | [Claude Security Launches in Public Beta to Find and Fix Software Vulnerabilities](articles/2026/04/2026-04-30-anthropic-claude-security-public-beta.md) | Anthropic | security, code-review, vulnerability-scanner, Claude, DevSecOps, Opus-4.7 | genai-llm, ai-startup |
+| 2026-04-30 | [Automating GPU Kernel Translation with AI Agents: cuTile Python to cuTile.jl](articles/2026/04/2026-04-30-nvidia-gpu-kernel-translation-ai-agents-cutile.md) | NVIDIA Developer Blog | GPU, CUDA, Julia, Python, AI-agents, kernel-optimization, cuTile, TileGym | ai-infra |
+| 2026-04-30 | [From 732 bytes to nowhere: shutting down Copy Fail in production](articles/2026/04/2026-04-30-together-ai-copy-fail-cve-production-security.md) | Together AI Blog | CVE, security, Linux-kernel, vulnerability, multi-tenant, GPU-cloud, fleet-management | ai-infra |
 | 2026-04-30 | [[AINews] Agents for Everything Else: Codex for Knowledge Work, Claude for Creative Work](newsletters/2026/04/2026-04-30-ainews-agents-for-everything-else.md) | AINews | roundup, twitter-recap, community-signals, Codex, Claude, Qwen3.6, open-weights, security, agents | newsletter |
 | 2026-04-29 | [Big Tech Q1 2026 Earnings: $650B AI Capex Commitment Validated by Cloud Results](articles/2026/04/2026-04-29-big-tech-q1-2026-earnings-ai-spending.md) | The Motley Fool | earnings, Alphabet, Microsoft, Meta, Amazon, Google-Cloud, AWS, capex, AI-spending, cloud | ai-startup |
 | 2026-04-29 | [Remote agents in Vibe. Powered by Mistral Medium 3.5.](articles/2026/04/2026-04-29-mistral-medium-3-5-open-weights-remote-agents.md) | Mistral AI | Mistral, open-weights, agents, remote-execution, coding, benchmark, SWE-bench, MoE, vibe | genai-llm |
