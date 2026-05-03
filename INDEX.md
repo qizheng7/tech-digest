@@ -4,6 +4,11 @@
 
 | Date | Title | Source | Tags | Type |
 |------|-------|--------|------|------|
+| 2026-05-02 | [[AINews] AI Engineer World's Fair — Autoresearch, Memory, World Models, Tokenmaxxing, Agentic Commerce](newsletters/2026/05/2026-05-02-ainews-ai-engineer-worlds-fair-autoresearch.md) | AINews | roundup, twitter-recap, community-signals, Grok-4.3, DeepSeek-V4-Pro, Codex, agents, open-weights | newsletter |
+| 2026-05-02 | [EP213: MCP vs Skills, Clearly Explained](newsletters/2026/05/2026-05-02-bytebytego-ep213-mcp-vs-skills.md) | ByteByteGo | MCP, agent-skills, agents, prompt-injection, architecture, JSON-RPC | newsletter |
+| 2026-05-01 | [Nebius Agrees to Acquire Eigen AI for $643M to Strengthen Token Factory Inference Platform](articles/2026/05/2026-05-01-nebius-acquires-eigen-ai-643m-token-factory.md) | Nebius | inference, model-optimization, AWQ, acquisition, Token-Factory, MIT-HAN-Lab | ai-infra, ai-startup |
+| 2026-05-01 | [Meta Buys Robotics Startup Assured Robot Intelligence to Bolster Humanoid AI Ambitions](articles/2026/05/2026-05-01-meta-acquires-assured-robot-intelligence.md) | TechCrunch | Meta, robotics, humanoid, foundation-models, physical-AI, acquisition | ai-startup |
+| 2026-05-01 | [Microsoft Agent 365, Now Generally Available, Expands Capabilities and Integrations](articles/2026/05/2026-05-01-microsoft-agent-365-generally-available.md) | Microsoft Security Blog | Microsoft, agents, governance, security, enterprise, AI-agent-management, AWS-Bedrock | ai-infra, ai-startup |
 | 2026-05-01 | [Qwen-Scope: Open-Source Sparse Autoencoder Suite for LLM Interpretability](articles/2026/05/2026-05-01-qwen-scope-sparse-autoencoders-interpretability.md) | Qwen / Alibaba | interpretability, SAE, sparse-autoencoders, feature-steering, LLM, open-source, Qwen3 | genai-llm |
 | 2026-04-30 | [Claude Security Launches in Public Beta to Find and Fix Software Vulnerabilities](articles/2026/04/2026-04-30-anthropic-claude-security-public-beta.md) | Anthropic | security, code-review, vulnerability-scanner, Claude, DevSecOps, Opus-4.7 | genai-llm, ai-startup |
 | 2026-04-30 | [Automating GPU Kernel Translation with AI Agents: cuTile Python to cuTile.jl](articles/2026/04/2026-04-30-nvidia-gpu-kernel-translation-ai-agents-cutile.md) | NVIDIA Developer Blog | GPU, CUDA, Julia, Python, AI-agents, kernel-optimization, cuTile, TileGym | ai-infra |
