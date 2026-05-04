@@ -4,6 +4,7 @@
 
 | Date | Title | Source | Tags | Type |
 |------|-------|--------|------|------|
+| 2026-05-03 | [Anthropic in Early Talks to Buy DRAM-less Inference Chips from UK Startup Fractile](articles/2026/05/2026-05-03-anthropic-fractile-sram-inference-chip-talks.md) | Tom's Hardware | Anthropic, inference, SRAM, hardware, chip-supply, Fractile, UK-startup | ai-infra, ai-startup |
 | 2026-05-02 | [[AINews] AI Engineer World's Fair — Autoresearch, Memory, World Models, Tokenmaxxing, Agentic Commerce](newsletters/2026/05/2026-05-02-ainews-ai-engineer-worlds-fair-autoresearch.md) | AINews | roundup, twitter-recap, community-signals, Grok-4.3, DeepSeek-V4-Pro, Codex, agents, open-weights | newsletter |
 | 2026-05-02 | [EP213: MCP vs Skills, Clearly Explained](newsletters/2026/05/2026-05-02-bytebytego-ep213-mcp-vs-skills.md) | ByteByteGo | MCP, agent-skills, agents, prompt-injection, architecture, JSON-RPC | newsletter |
 | 2026-05-01 | [Nebius Agrees to Acquire Eigen AI for $643M to Strengthen Token Factory Inference Platform](articles/2026/05/2026-05-01-nebius-acquires-eigen-ai-643m-token-factory.md) | Nebius | inference, model-optimization, AWQ, acquisition, Token-Factory, MIT-HAN-Lab | ai-infra, ai-startup |
