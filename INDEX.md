@@ -4,6 +4,11 @@
 
 | Date | Title | Source | Tags | Type |
 |------|-------|--------|------|------|
+| 2026-05-05 | [Doing Vibe Physics — Alex Lupsasca, OpenAI](newsletters/2026/05/2026-05-05-latentspace-vibe-physics-alex-lupsasca.md) | Latent.Space | podcast, GPT-5.x, physics, scientific-discovery, vibe-physics, Lupsasca, quantum-gravity | newsletter |
+| 2026-05-05 | [OpenAI to Burn $50B on Compute in 2026, Brockman Testifies](articles/2026/05/2026-05-05-openai-50b-compute-spend-2026-brockman.md) | The Register | OpenAI, compute, capex, spending, Brockman, court-testimony, Amazon, NVIDIA | ai-infra, ai-startup |
+| 2026-05-05 | [SAP Bets $1.16B on 18-Month-Old German AI Lab and Says Yes to NemoClaw](articles/2026/05/2026-05-05-sap-acquires-prior-labs-1-16b-tabular-ai.md) | TechCrunch | SAP, Prior-Labs, tabular-AI, structured-data, acquisition, enterprise, NVIDIA, NemoClaw | ai-startup |
+| 2026-05-05 | [Building for the Rising Complexity of Agentic Systems with Extreme Co-Design](articles/2026/05/2026-05-05-nvidia-agentic-systems-extreme-co-design.md) | NVIDIA Developer Blog | NVIDIA, agents, inference, Vera-Rubin, co-design, token-economics, hardware, KV-cache | ai-infra |
+| 2026-05-05 | [Agents for Financial Services](articles/2026/05/2026-05-05-anthropic-agents-for-financial-services.md) | Anthropic | Anthropic, Claude, finance, agents, enterprise, fintech, benchmark, MCP, Microsoft-365 | genai-llm, ai-startup |
 | 2026-05-04 | [[AINews] The Other vs The Utility](newsletters/2026/05/2026-05-04-ainews-the-other-vs-the-utility.md) | AINews | roundup, twitter-recap, community-signals, Claude, GPT, agents, harness-engineering, AMD, TSP, benchmarks, Sierra | newsletter |
 | 2026-05-04 | [Building a New Enterprise AI Services Company with Blackstone, Hellman & Friedman, and Goldman Sachs](articles/2026/05/2026-05-04-anthropic-enterprise-ai-services-blackstone.md) | Anthropic | Anthropic, Claude, enterprise, private-equity, Blackstone, Goldman-Sachs, services, implementation, mid-market | genai-llm, ai-startup |
 | 2026-05-04 | [Cerebras Targets $3.5B IPO on Nasdaq at $26.6B Valuation](articles/2026/05/2026-05-04-cerebras-ipo-3-5b-nasdaq-wafer-scale.md) | TechCrunch | Cerebras, IPO, chip, NVIDIA-rival, Nasdaq, wafer-scale, OpenAI, valuation, hardware | ai-infra, ai-startup |
