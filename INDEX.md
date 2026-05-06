@@ -4,6 +4,7 @@
 
 | Date | Title | Source | Tags | Type |
 |------|-------|--------|------|------|
+| 2026-04-15 | [Understanding the Gemma 4 Family](articles/2026/04/2026-04-15-hfviewer-gemma4-family-architecture.md) | HFViewer | Gemma, Google, LLM, edge-inference, MoE, model-architecture, visualization, Hugging-Face | genai-llm, ai-infra |
 | 2026-04-17 | [Full-Stack Optimizations for Agentic Inference with NVIDIA Dynamo](articles/2026/04/2026-04-17-nvidia-dynamo-full-stack-agentic-inference.md) | NVIDIA Developer Blog | NVIDIA, Dynamo, inference, agents, KV-cache, agentic-inference, multi-agent, routing, vLLM, SGLang | ai-infra |
 | 2026-05-05 | [Doing Vibe Physics — Alex Lupsasca, OpenAI](newsletters/2026/05/2026-05-05-latentspace-vibe-physics-alex-lupsasca.md) | Latent.Space | podcast, GPT-5.x, physics, scientific-discovery, vibe-physics, Lupsasca, quantum-gravity | newsletter |
 | 2026-05-05 | [OpenAI to Burn $50B on Compute in 2026, Brockman Testifies](articles/2026/05/2026-05-05-openai-50b-compute-spend-2026-brockman.md) | The Register | OpenAI, compute, capex, spending, Brockman, court-testimony, Amazon, NVIDIA | ai-infra, ai-startup |
